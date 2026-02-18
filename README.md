@@ -1,8 +1,8 @@
 # Requirements
 
 - Python 3.9 or higher
-- python-dotenv — loads .env files
-- cryptography — optional HMAC support (stdlib hmac also works)
+- python-dotenv: loads .env files
+- cryptography: optional HMAC support (stdlib hmac also works)
 - Everything else uses the Python standard library
 
 # Start
